@@ -54,6 +54,3 @@ These are articles that were recommended for one reason or another, but I haven'
 ###Functional Languages -> Compile to Javascript
 
 - [Elm-lang.org](http://elm-lang.org/)
-
-
-91403

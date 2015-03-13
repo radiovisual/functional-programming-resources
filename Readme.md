@@ -17,8 +17,8 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 
 ###Courses (free and paid)
 
-- [Javascript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/)
-- [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)
+- [Javascript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/) (Frontend Masters)
+- [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) (Frontend Masters)
 
 ###Benefits of Functional Programming
 
@@ -32,6 +32,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - **Highly-Maintainable Code** FP programs are incredibly easy to read, due to the declarative (and modular) nature of functional programming. Additionally: Functional programs also tend to be shorter than their imperative counterparts, and a smaller code base is easier to maintain than a large one.
 
 ###Libraries & Frameworks
+
 - [Ramda](http://ramdajs.com/) A practical functional library for Javascript programmers. See [this article](http://developer.telerik.com/featured/practical-functional-javascript-ramda/) for a nice introduction. Some good functional nuggets to be enjoyed.
 - [functionaljs](http://functionaljs.com/) A functional JavaScript library. It facilitates currying and point-free / tacit programming and this methodology has been adhered to from the ground up.
 - [immuateble.js](https://github.com/facebook/immutable-js) Not entirely-functional, but shares a lot of the same concepts with functional design, namely the immutability of data.

@@ -9,6 +9,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 
 - **[Functional Programming for the Rest of Us](http://www.defmacro.org/ramblings/fp.html).** This article has a really great way of explaining some of the heavier aspects of FP. It breaks out of the typically-academic approach; speaking directly to developers, and not an assembly of mathematicians.
 - **[Don't Be Scared of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/)** via Smashing Magazine
+- **[Why Curry Helps](http://hughfdjackson.com/javascript/why-curry-helps/)** A great article on the beauties of currying.
 
 ###Videos & Presentations
 
@@ -52,3 +53,6 @@ These are articles that were recommended for one reason or another, but I haven'
 ###Functional Languages -> Compile to Javascript
 
 - [Elm-lang.org](http://elm-lang.org/)
+
+
+91403

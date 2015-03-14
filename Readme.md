@@ -38,7 +38,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - **Highly-Readable Code** FP is an extremely expressive design paradigm, and this expressiveness tends to lend itself to beautifully-crafted programs that are clear and concise.
 - **Excellent Code Reuse** The FP paradigm supports modular, reusable code straight out of the box. This is because functions compose themselves of existing functions, so you get to decide how these functions are combined to perform your application logic.
 - **Highly-Maintainable Code** FP programs are incredibly easy to read, due to the declarative (and modular) nature of functional programming. Additionally: Functional programs also tend to be shorter than their imperative counterparts, and a smaller code base is easier to maintain than a large one.
-- **Static Types** In FP, all 'variables' (immutable symbols) have a type (either declared, or inferred at compile-time). The compiler can then analyse your code and help you avoid a wide range of common problems that plague developers in non statically-typed languages. **Note: Javascript is not a statically-typed language**, so creative techniques must be employed to mimic this behavior when writing pure javascript.
+- **Static Types** In FP, all 'variables' (immutable symbols) have a type (either declared, or inferred at compile-time). The compiler can then analyse your code and help you avoid a wide range of common problems that plague developers in non statically-typed languages. Note: Javascript is not a statically-typed language, see the "Gotchas" section.
 
 ###The "Gotchas" of Javascript
 

@@ -7,6 +7,11 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 
 **Note:** this is very much a work in progress!
 
+###Keywords
+
+- **Higher-Order Functions** A fancy term for a function that accepts another function as an argument. *[source](http://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript)*
+- **Currying** Currying is the process of transforming a function that takes multiple arguments into a function that takes just a single argument and returns another function if any arguments are still needed. *[source](http://tech.pro/tutorial/2011/functional-javascript-part-4-function-currying)*
+
 ###Articles
 
 - **[Functional Programming for the Rest of Us](http://www.defmacro.org/ramblings/fp.html).** This article has a really great way of explaining some of the heavier aspects of FP. It breaks out of the typically-academic approach; speaking directly to developers, and not an assembly of mathematicians.
@@ -32,6 +37,15 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - **Highly-Readable Code** FP is an extremely expressive design paradigm, and this expressiveness tends to lend itself to beautifully-crafted programs that are clear and concise.
 - **Excellent Code Reuse** The FP paradigm supports modular, reusable code straight out of the box. This is because functions compose themselves of existing functions, so you get to decide how these functions are combined to perform your application logic.
 - **Highly-Maintainable Code** FP programs are incredibly easy to read, due to the declarative (and modular) nature of functional programming. Additionally: Functional programs also tend to be shorter than their imperative counterparts, and a smaller code base is easier to maintain than a large one.
+- **Static Types** In FP, all 'variables' (immutable symbols) have a type (either declared, or inferred at compile-time). The compiler can then analyse your code and help you avoid a wide range of common problems that plague developers in non statically-typed languages. **Note: Javascript is not a statically-typed language**, so creative techniques must be employed to mimic this behavior when writing pure javascript.
+
+###The "Gotchas" of Javascript
+
+Certain aspects of the javascript language make it tricky to harness the full power of a fully-functional language, namely:
+
+- **Javascript is not a statically-typed language.** Variables in javascript are dynamically-typed, which means that they can change their type at anytime. This is counter to the functional methodology where all symbols are immutable and have an explicit type.
+- **Variables are not immutable in Javascript.** Certain libraries / frameworks exist to help shape Javascript variables into immutable symbols. Note that the `const` keyword is coming to ES6, and has limited support right now.
+
 
 ###Libraries & Frameworks
 

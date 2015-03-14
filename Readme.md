@@ -22,6 +22,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 ###Videos & Presentations
 
 - [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by Rich Hickney (author of Clojure)
+- [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) Not 100% about FP, but has some great tips on immutable data with the react.js library.
 
 ###Courses (free and paid)
 

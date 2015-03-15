@@ -11,6 +11,10 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 
 - **Higher-Order Functions** A fancy term for a function that accepts another function as an argument. *[source](http://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript)*
 - **Currying** Currying is the process of transforming a function that takes multiple arguments into a function that takes just a single argument and returns another function if any arguments are still needed. *[source](http://tech.pro/tutorial/2011/functional-javascript-part-4-function-currying)*
+- **Pure Functions** A pure function is a function that does not introduce and "side effects" by affecting state anywhere in your application. Pure functions return a value, and that is all they do. This keeps your functions clean, predictable, and highly-testable.
+- **Functors**
+- **Monads**
+- **Immutable** Immutable values are values that never change once instantiated. All variables (symbols) are immutable in functional languages.
 
 ###Articles
 

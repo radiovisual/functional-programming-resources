@@ -32,6 +32,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 
 - [Javascript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/) (Frontend Masters)
 - [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) (Frontend Masters)
+- [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x#.VQaxMmTkcme) (edX)
 
 ###Benefits of Functional Programming
 
@@ -76,3 +77,4 @@ These are articles that were recommended for one reason or another, but I haven'
 ###Functional Languages -> Compile to Javascript
 
 - [Elm-lang.org](http://elm-lang.org/)
+- [ClosureScript](https://github.com/clojure/clojurescript) : A closure to JS compiler

@@ -60,10 +60,15 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [functionaljs](http://functionaljs.com/) A functional JavaScript library. It facilitates currying and point-free / tacit programming and this methodology has been adhered to from the ground up.
 - [immuateble.js](https://github.com/facebook/immutable-js) Not entirely-functional, but shares a lot of the same concepts with functional design, namely the immutability of data.
 
-###Books
+###Functional Javascript Books
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/) Has some chapters dedicated to functional programming. Read for free [online](http://eloquentjavascript.net/), or purchase a [paperback](http://www.amazon.com/gp/product/1593275846/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275846&linkCode=as2&tag=marijhaver-20&linkId=VPXXXSRYC5COG5R5) copy.
 - [Programming Javascript Applications : Robust Web Architecture with Node, HTML5, and Modern JS Libraries](http://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293/ref=sr_1_1?s=books&ie=UTF8&qid=1426178193&sr=1-1&keywords=Eric+Elliot)
+
+###Functional Programming Books
+
+- [Real World Haskell](http://book.realworldhaskell.org/)
+- [Learn You a Haskell For Great Good](http://learnyouahaskell.com/)
 
 ###Articles to be Explored
 These are articles that were recommended for one reason or another, but I haven't actually read them to determine their status. Could be that some of these articles are too academic for my tastes.

@@ -23,6 +23,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - **[Don't Be Scared of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/)** via Smashing Magazine.
 - **[Why Curry Helps](http://hughfdjackson.com/javascript/why-curry-helps/)** A great article on the beauties of currying.
 - **[The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)** Nice article by Eric Elliot on the topic of FP.
+- **[Functional Programming in Javascript](http://jhusain.github.io/learnrx/)** Cool interactive lessons on FP in JS.
 
 ###Videos & Presentations
 

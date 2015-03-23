@@ -13,7 +13,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - **Currying** Currying is the process of transforming a function that takes multiple arguments into a function that takes just a single argument and returns another function if any arguments are still needed. *[source](http://tech.pro/tutorial/2011/functional-javascript-part-4-function-currying)*
 - **Pure Functions** A pure function is a function that does not introduce and "side effects" by affecting state anywhere in your application. Pure functions return a value, and that is all they do. This keeps your functions clean, predictable, and highly-testable.
 - **Functors** A class type that can be mapped over with a function.
-- **Monads**
+- **Monad** In functional programming, a monad is a structure that represents computations defined as sequences of steps: a type with a monad structure defines what it means to chain operations, or nest functions of that type together. This allows the programmer to build pipelines that process data in steps, in which each action is decorated with additional processing rules provided by the monad. *[source](http://en.wikipedia.org/wiki/Monad_%28functional_programming%29)*
 - **Immutable** Immutable values are values that never change once instantiated. All variables (symbols) are immutable in functional languages.
 - **Tail Call** A tail call happens when a function `F` makes a function call as its final action. At that point `F` will do absolutely no more work: it passes the ball to whatever function is being called and vanishes from the game. *[source](http://duartes.org/gustavo/blog/post/tail-calls-optimization-es6/)*
 

@@ -3,7 +3,7 @@
 An archive of the best resources surrounding the functional programming paradigm.
 
 Functional programming is making a strong comeback, and with it: a massive wave of internet buzz. Someone needs to sort the good from the bad, and that is what I will attempt to do here.
-My focus is on the functional paradigm in the context of Javascript, but discussion and highlight of other Functional languages are welcome for the purpose of evaluation, comparison and education.
+My focus is on the functional paradigm in the context of Javascript and Swift, but discussion and highlight of other Functional languages are welcome for the purpose of evaluation, comparison and education.
 
 **Note:** this is very much a work in progress!
 
@@ -55,7 +55,6 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - **Javascript is not a statically-typed language.** Variables in javascript are dynamically-typed, which means that they can change their type at anytime. This is counter to the functional methodology where all symbols are immutable and have an explicit type.
 - **Variables are not immutable in Javascript.** Certain libraries / frameworks exist to help shape Javascript variables into immutable symbols. Note that the `const` keyword is coming to ES6, and has limited support right now.
 
-
 ###Libraries & Frameworks
 
 - [Ramda](http://ramdajs.com/) A practical functional library for Javascript programmers. See [this article](http://developer.telerik.com/featured/practical-functional-javascript-ramda/) for a nice introduction. Some good functional nuggets to be enjoyed.
@@ -67,6 +66,14 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Eloquent JavaScript](http://eloquentjavascript.net/) Has some chapters dedicated to functional programming. Read for free [online](http://eloquentjavascript.net/), or purchase a [paperback](http://www.amazon.com/gp/product/1593275846/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275846&linkCode=as2&tag=marijhaver-20&linkId=VPXXXSRYC5COG5R5) copy.
 - [Programming Javascript Applications : Robust Web Architecture with Node, HTML5, and Modern JS Libraries](http://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293/ref=sr_1_1?s=books&ie=UTF8&qid=1426178193&sr=1-1&keywords=Eric+Elliot)
 
+###Functional Swift Books
+
+- [Functional Programming in Swift](http://www.objc.io/books/)
+
+###Functional Swift Videos
+
+- [Functional Programming in Swift](https://realm.io/news/functional-programming-swift-chris-eidhof/)
+
 ###Functional Programming Books
 
 - [Real World Haskell](http://book.realworldhaskell.org/)
@@ -77,6 +84,7 @@ These are articles that were recommended for one reason or another, but I haven'
 
 - [On the Importance of Purity](http://higherlogics.blogspot.pt/2007/10/on-importance-of-purity.html)
 - [Total Functional Programming](http://www.eis.mdx.ac.uk/staffpages/dat/sblp1.pdf)
+- [Swift Functional Programming Tutorial](http://www.raywenderlich.com/82599/swift-functional-programming-tutorial)
 
 ###Blogs to Follow
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)

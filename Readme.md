@@ -88,8 +88,13 @@ These are articles that were recommended for one reason or another, but I haven'
 
 ###Blogs to Follow
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
+- [RisingStack Engineering](http://blog.risingstack.com/)
 
 ###Functional Languages -> Compile to Javascript
 
 - [Elm-lang.org](http://elm-lang.org/)
 - [ClosureScript](https://github.com/clojure/clojurescript) : A closure to JS compiler
+
+###Functional UI
+
+- [Functional UI and Components as Higher Order Functions](http://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)

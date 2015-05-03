@@ -85,6 +85,8 @@ These are articles that were recommended for one reason or another, but I haven'
 - [On the Importance of Purity](http://higherlogics.blogspot.pt/2007/10/on-importance-of-purity.html)
 - [Total Functional Programming](http://www.eis.mdx.ac.uk/staffpages/dat/sblp1.pdf)
 - [Swift Functional Programming Tutorial](http://www.raywenderlich.com/82599/swift-functional-programming-tutorial)
+- [Functional Reactive React.js](https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540)
+- [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
 
 ###Blogs to Follow
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)

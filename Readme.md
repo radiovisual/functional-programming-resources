@@ -88,6 +88,7 @@ These are articles that were recommended for one reason or another, but I haven'
 - [Swift Functional Programming Tutorial](http://www.raywenderlich.com/82599/swift-functional-programming-tutorial)
 - [Functional Reactive React.js](https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540)
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
+- [Promises + FP = Beautiful Streams ](http://tech.pro/blog/6888/promises--fp--beautiful-streams)
 
 ###Blogs to Follow
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
@@ -101,3 +102,4 @@ These are articles that were recommended for one reason or another, but I haven'
 ###Functional UI
 
 - [Functional UI and Components as Higher Order Functions](http://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
+

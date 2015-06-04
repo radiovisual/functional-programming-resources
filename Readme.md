@@ -12,18 +12,21 @@ My focus is on the functional paradigm in the context of Javascript and Swift, b
 - **Higher-Order Functions** A fancy term for a function that accepts another function as an argument. *[source](http://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript)*
 - **Currying** Currying is the process of transforming a function that takes multiple arguments into a function that takes just a single argument and returns another function if any arguments are still needed. *[source](http://tech.pro/tutorial/2011/functional-javascript-part-4-function-currying)*
 - **Pure Functions** A pure function is a function that does not introduce and "side effects" by affecting state anywhere in your application. Pure functions return a value, and that is all they do. This keeps your functions clean, predictable, and highly-testable.
-- **Functors** A class type that can be mapped over with a function.
+- **Functors** A class type that can be mapped over with a function. A functor is a wrapper that can apply a given function to its contents & return a new instance containing the results. e.g. JS Arrays.
 - **Monad** In functional programming, a monad is a structure that represents computations defined as sequences of steps: a type with a monad structure defines what it means to chain operations, or nest functions of that type together. This allows the programmer to build pipelines that process data in steps, in which each action is decorated with additional processing rules provided by the monad. *[source](http://en.wikipedia.org/wiki/Monad_%28functional_programming%29)*
 - **Immutable** Immutable values are values that never change once instantiated. All variables (symbols) are immutable in functional languages.
 - **Tail Call** A tail call happens when a function `F` makes a function call as its final action. At that point `F` will do absolutely no more work: it passes the ball to whatever function is being called and vanishes from the game. *[source](http://duartes.org/gustavo/blog/post/tail-calls-optimization-es6/)*
 
 ###Articles
 
-- **[Functional Programming for the Rest of Us](http://www.defmacro.org/ramblings/fp.html).** This article has a really great way of explaining some of the heavier aspects of FP. It breaks out of the typically-academic approach; speaking directly to developers, and not an assembly of mathematicians.
-- **[Don't Be Scared of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/)** via Smashing Magazine.
-- **[Why Curry Helps](http://hughfdjackson.com/javascript/why-curry-helps/)** A great article on the beauties of currying.
-- **[The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)** Nice article by Eric Elliot on the topic of FP.
-- **[Functional Programming in Javascript](http://jhusain.github.io/learnrx/)** Cool interactive lessons on FP in JS.
+- [Functional Programming for the Rest of Us](http://www.defmacro.org/ramblings/fp.html). This article has a really great way of explaining some of the heavier aspects of FP. It breaks out of the typically-academic approach; speaking directly to developers, and not an assembly of mathematicians.
+- [Don't Be Scared of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/) via Smashing Magazine.
+- [Why Curry Helps](http://hughfdjackson.com/javascript/why-curry-helps/) A great article on the beauties of currying.
+- [The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) Nice article by Eric Elliot on the topic of FP.
+- [Functional Programming in Javascript](http://jhusain.github.io/learnrx/) Cool interactive lessons on FP in JS.
+- [Promises + FP = Beautiful Streams ](http://tech.pro/blog/6888/promises--fp--beautiful-streams)
+- [Bringing functional to the frontend: Clojure + ClojureScript for the web](http://blog.getprismatic.com/bringing-functional-to-the-frontend-clojure-clojurescript-for-the-web/)
+- [Om sweet Om: (high-)functional frontend engineering with ClojureScript and React](http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/)
 
 ###Videos & Presentations
 
@@ -88,7 +91,7 @@ These are articles that were recommended for one reason or another, but I haven'
 - [Swift Functional Programming Tutorial](http://www.raywenderlich.com/82599/swift-functional-programming-tutorial)
 - [Functional Reactive React.js](https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540)
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
-- [Promises + FP = Beautiful Streams ](http://tech.pro/blog/6888/promises--fp--beautiful-streams)
+
 
 ###Blogs to Follow
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)

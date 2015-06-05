@@ -27,6 +27,7 @@ My focus is on the functional paradigm in the context of Javascript and Swift, b
 - [Promises + FP = Beautiful Streams ](http://tech.pro/blog/6888/promises--fp--beautiful-streams)
 - [Bringing functional to the frontend: Clojure + ClojureScript for the web](http://blog.getprismatic.com/bringing-functional-to-the-frontend-clojure-clojurescript-for-the-web/)
 - [Om sweet Om: (high-)functional frontend engineering with ClojureScript and React](http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/)
+- [Functional programming on frontend with React & ClojureScript](http://blog.scalac.io/2015/04/02/clojurescript-reactjs-reagent.html)
 
 ###Videos & Presentations
 

@@ -59,7 +59,8 @@ My focus is on the functional paradigm in the context of Javascript and Swift, b
 Certain aspects of the javascript language make it tricky to harness the full power of a fully-functional language, namely:
 
 - **Javascript is not a statically-typed language.** Variables in javascript are dynamically-typed, which means that they can change their type at anytime. This is counter to the functional methodology where all symbols are immutable and have an explicit type.
-- **Variables are not immutable in Javascript.** Certain libraries / frameworks exist to help shape Javascript variables into immutable symbols. Note that the `const` keyword is coming to ES6, and has limited support right now.
+- **Variables are only immutable in ES6.** All ECMAScript specifications lower than 6 ( >= ES5 ) do not support immutable variables. Note that the `const` keyword is available in ES6, where variables declared like `const foo = 123;` are immutable, but objects declared with the `const` keyword are MUTABLE (see the next gotcha).
+- **In ES6, objects declared with `const` are mutable**. The idea here is that the **pointer reference to the object is immutable** when your object is declared with `const`, but the object itself is mutable.
 
 ###Libraries & Frameworks
 
@@ -86,6 +87,7 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Learn You a Haskell For Great Good](http://learnyouahaskell.com/)
 - [Functional Programming in Javascript](http://www.amazon.com/Functional-Programming-JavaScript-Dan-Mantyla/dp/1784398225/ref=pd_sim_sbs_14_2?ie=UTF8&refRID=0VWN3N2HTT3XT9VPZFSB)
 - [Game programming in Haskell](https://leanpub.com/gameinhaskell) Insights from a Haskell programmer on the challenges and rewards of building a game in Haskell
+- [Functional Reactive Programming](http://manning.com/blackheath/)
 
 ###Articles to be Explored
 These are articles that were recommended for one reason or another, but I haven't actually read them to determine their status. Could be that some of these articles are too academic for my tastes.

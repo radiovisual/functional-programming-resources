@@ -5,7 +5,7 @@ An archive of the best resources surrounding the functional programming paradigm
 Functional programming is making a strong comeback, and with it: a massive wave of internet buzz. Someone needs to sort the good from the bad, and that is what I will attempt to do here.
 My focus is on the functional paradigm in the context of Javascript and Swift, but discussion and highlight of other Functional languages are welcome for the purpose of evaluation, comparison and education.
 
-**Note:** this is very much a work in progress!
+**Note:** This is very much a work in progress!
 
 ###Keywords
 
@@ -59,12 +59,13 @@ My focus is on the functional paradigm in the context of Javascript and Swift, b
 Certain aspects of the javascript language make it tricky to harness the full power of a fully-functional language, namely:
 
 - **Javascript is not a statically-typed language.** Variables in javascript are dynamically-typed, which means that they can change their type at anytime. This is counter to the functional methodology where all symbols are immutable and have an explicit type.
-- **Variables are only immutable in ES6.** All ECMAScript specifications lower than 6 ( >= ES5 ) do not support immutable variables. Note that the `const` keyword is available in ES6, where variables declared like `const foo = 123;` are immutable, but objects declared with the `const` keyword are MUTABLE (see the next gotcha).
-- **In ES6, objects declared with `const` are mutable**. The idea here is that the **pointer reference to the object is immutable** when your object is declared with `const`, but the object itself is mutable.
+- **Variables are only immutable in ES6.** All ECMAScript specifications lower than 6 ( >= ES5 ) do not support immutable variables. Note that the `const` keyword is available in ES6, where variables declared like `const foo = 123;` are immutable, but objects declared with `const` behave differently (see the next gotcha).
+- **In ES6, objects declared with `const` are mutable**. The idea here is that the *pointer reference to the object is immutable* when your object is declared with `const`, but the object itself is mutable.
 
 ###Libraries & Frameworks
 
 - [Ramda](http://ramdajs.com/) A practical functional library for Javascript programmers. See [this article](http://developer.telerik.com/featured/practical-functional-javascript-ramda/) for a nice introduction. Some good functional nuggets to be enjoyed.
+  - [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/)
 - [functionaljs](http://functionaljs.com/) A functional JavaScript library. It facilitates currying and point-free / tacit programming and this methodology has been adhered to from the ground up.
 - [immutable.js](https://github.com/facebook/immutable-js) Not entirely-functional, but shares a lot of the same concepts with functional design, namely the immutability of data.
 
@@ -100,6 +101,7 @@ These are articles that were recommended for one reason or another, but I haven'
 
 
 ###Blogs to Follow
+
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 - [RisingStack Engineering](http://blog.risingstack.com/)
 

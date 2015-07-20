@@ -64,7 +64,8 @@ Certain aspects of the javascript language make it tricky to harness the full po
 
 ###Libraries & Frameworks
 
-- [Ramda](http://ramdajs.com/) A practical functional library for Javascript programmers. See [this article](http://developer.telerik.com/featured/practical-functional-javascript-ramda/) for a nice introduction. Some good functional nuggets to be enjoyed.
+- [Ramda](http://ramdajs.com/) A practical functional library for Javascript programmers.
+  - [Practical Functional Javascript with Ramda](http://developer.telerik.com/featured/practical-functional-javascript-ramda/)
   - [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/)
 - [functionaljs](http://functionaljs.com/) A functional JavaScript library. It facilitates currying and point-free / tacit programming and this methodology has been adhered to from the ground up.
 - [immutable.js](https://github.com/facebook/immutable-js) Not entirely-functional, but shares a lot of the same concepts with functional design, namely the immutability of data.

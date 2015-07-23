@@ -35,6 +35,8 @@ My focus is on the functional paradigm in the context of Javascript and Swift, b
 - [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) Not 100% about FP, but has some great tips on immutable data with the react.js library.
 - [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY)
 - [An Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=ZOCCzDNsAtI)
+- [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) by [David Nolen](https://twitter.com/swannodette)
+- [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY)
 
 ###Courses (free and paid)
 

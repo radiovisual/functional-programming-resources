@@ -104,7 +104,7 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Functional Reactive Programming](http://manning.com/blackheath/)
 
 ###Articles to be Explored
-These are articles that were recommended for one reason or another, but I haven't actually read them to determine their status. Could be that some of these articles are too academic for my tastes.
+These are articles that were recommended for one reason or another, but I haven't actually read them to determine their status.
 
 - [On the Importance of Purity](http://higherlogics.blogspot.pt/2007/10/on-importance-of-purity.html)
 - [Total Functional Programming](http://www.eis.mdx.ac.uk/staffpages/dat/sblp1.pdf)

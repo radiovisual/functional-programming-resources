@@ -67,11 +67,20 @@ Certain aspects of the javascript language make it tricky to harness the full po
 
 ###Libraries & Frameworks
 
-- [Ramda](http://ramdajs.com/) A practical functional library for Javascript programmers.
+- [Ramda](http://ramdajs.com/) A utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
   - [Practical Functional Javascript with Ramda](http://developer.telerik.com/featured/practical-functional-javascript-ramda/)
   - [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/)
 - [functionaljs](http://functionaljs.com/) A functional JavaScript library. It facilitates currying and point-free / tacit programming and this methodology has been adhered to from the ground up.
 - [immutable.js](https://github.com/facebook/immutable-js) Not entirely-functional, but shares a lot of the same concepts with functional design, namely the immutability of data.
+- [lodash](http://lodash.com) - A utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+- [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
+- [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
+- [Folktale](http://folktale.github.io) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
+- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
+- [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
+- [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
+- [RxJS](http://reactive-extensions.github.io/RxJS/) - Functional reactive library for transforming, composing, and querying various kinds of data.
+- [Lazy.js](https://github.com/dtao/lazy.js/) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 
 ###Functional Javascript Books
 

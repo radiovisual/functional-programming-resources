@@ -87,6 +87,7 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Programming Javascript Applications : Robust Web Architecture with Node, HTML5, and Modern JS Libraries](http://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293/ref=sr_1_1?s=books&ie=UTF8&qid=1426178193&sr=1-1&keywords=Eric+Elliot)
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming (in Javascript)](https://github.com/DrBoolean/mostly-adequate-guide)
 
+
 ###Functional Swift Books
 
 - [Functional Programming in Swift](http://www.objc.io/books/)
@@ -95,13 +96,14 @@ Certain aspects of the javascript language make it tricky to harness the full po
 
 - [Functional Programming in Swift](https://realm.io/news/functional-programming-swift-chris-eidhof/)
 
-###Functional Programming Books
+###Functional Programming Books & Papers
 
 - [Real World Haskell](http://book.realworldhaskell.org/)
 - [Learn You a Haskell For Great Good](http://learnyouahaskell.com/)
 - [Functional Programming in Javascript](http://www.amazon.com/Functional-Programming-JavaScript-Dan-Mantyla/dp/1784398225/ref=pd_sim_sbs_14_2?ie=UTF8&refRID=0VWN3N2HTT3XT9VPZFSB)
 - [Game programming in Haskell](https://leanpub.com/gameinhaskell) Insights from a Haskell programmer on the challenges and rewards of building a game in Haskell
 - [Functional Reactive Programming](http://manning.com/blackheath/)
+- [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) by John Hughes, 1984 #paper #pdf
 
 ###Articles to be Explored
 These are articles that were recommended for one reason or another, but I haven't actually read them to determine their status.
@@ -112,6 +114,7 @@ These are articles that were recommended for one reason or another, but I haven'
 - [Functional Reactive React.js](https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540)
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
 - [Curry or Partial Application?](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
+
 
 ###Blogs to Follow
 

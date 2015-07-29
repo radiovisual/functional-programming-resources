@@ -106,6 +106,7 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) by John Hughes, 1984 #paper #pdf
 
 ###Articles to be Explored
+
 These are articles that were recommended for one reason or another, but I haven't actually read them to determine their status.
 
 - [On the Importance of Purity](http://higherlogics.blogspot.pt/2007/10/on-importance-of-purity.html)
@@ -114,7 +115,7 @@ These are articles that were recommended for one reason or another, but I haven'
 - [Functional Reactive React.js](https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540)
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
 - [Curry or Partial Application?](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
-
+- [The General Theory of Reactivity](https://github.com/kriskowal/gtor) What is all this talk about reactive? Functional? Promises?
 
 ###Blogs to Follow
 

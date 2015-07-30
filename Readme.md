@@ -3,7 +3,7 @@
 An archive of the best resources surrounding the functional programming paradigm.
 
 Functional programming is making a strong comeback, and with it: a massive wave of internet buzz. Someone needs to sort the good from the bad, and that is what I will attempt to do here.
-My focus is on the functional paradigm in the context of Javascript and Swift, but discussion and highlight of other Functional languages are welcome for the purpose of evaluation, comparison and education.
+My focus is on the functional paradigm in the context of Javascript, but discussion and highlight of other Functional languages are welcome for the purpose of evaluation, comparison and education.
 
 **Note:** This is very much a work in progress!
 
@@ -88,14 +88,6 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming (in Javascript)](https://github.com/DrBoolean/mostly-adequate-guide)
 
 
-###Functional Swift Books
-
-- [Functional Programming in Swift](http://www.objc.io/books/)
-
-###Functional Swift Videos
-
-- [Functional Programming in Swift](https://realm.io/news/functional-programming-swift-chris-eidhof/)
-
 ###Functional Programming Books & Papers
 
 - [Real World Haskell](http://book.realworldhaskell.org/)
@@ -104,6 +96,8 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Game programming in Haskell](https://leanpub.com/gameinhaskell) Insights from a Haskell programmer on the challenges and rewards of building a game in Haskell
 - [Functional Reactive Programming](http://manning.com/blackheath/)
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) by John Hughes, 1984 #paper #pdf
+- [Functional Programming in Swift](http://www.objc.io/books/) #iOS 
+
 
 ###Articles to be Explored
 

@@ -2,6 +2,8 @@
 
 An archive of the best resources surrounding the functional programming paradigm.
 
+> Object Orientation makes code understandable by encapsulating moving parts. Functional programming makes code understandable by minimizing moving parts. ~ Michael Feathers
+
 Functional programming is making a strong comeback, and with it: a massive wave of internet buzz. Someone needs to sort the good from the bad, and that is what I will attempt to do here.
 My focus is on the functional paradigm in the context of Javascript, but discussion and highlight of other Functional languages are welcome for the purpose of evaluation, comparison and education.
 

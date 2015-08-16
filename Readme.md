@@ -90,8 +90,9 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming (in Javascript)](https://github.com/DrBoolean/mostly-adequate-guide)
 - [Functional Programming in Javascript](http://www.amazon.com/Functional-Programming-JavaScript-Dan-Mantyla/dp/1784398225/ref=pd_sim_14_4?ie=UTF8&refRID=0TGVWR4T74JV8Q5RAVGY)
 
+###Functional Programming Books, Papers & Articles
 
-###Functional Programming Books & Papers
+> Focused on Functional Programming in languages other than Javascript.
 
 - [Real World Haskell](http://book.realworldhaskell.org/)
 - [Learn You a Haskell For Great Good](http://learnyouahaskell.com/)
@@ -100,11 +101,11 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Functional Reactive Programming](http://manning.com/blackheath/)
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) by John Hughes, 1984 #paper #pdf
 - [Functional Programming in Swift](http://www.objc.io/books/) #iOS 
-
+- [Living with Lambdas: Functional Programming in C++](https://pragprog.com/magazines/2013-07/living-with-lambdas)
 
 ###Articles to be Explored
 
-These are articles that were recommended for one reason or another, but I haven't actually read them to determine their status.
+> These are articles that were recommended for one reason or another, but I haven't actually read them to determine their status.
 
 - [On the Importance of Purity](http://higherlogics.blogspot.pt/2007/10/on-importance-of-purity.html)
 - [Total Functional Programming](http://www.eis.mdx.ac.uk/staffpages/dat/sblp1.pdf)

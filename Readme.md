@@ -92,7 +92,7 @@ Certain aspects of the javascript language make it tricky to harness the full po
 
 ###Functional Programming Books, Papers & Articles
 
-> Focused on Functional Programming in languages other than Javascript.
+> Worthwhile publications on FP in languages other than Javascript.
 
 - [Real World Haskell](http://book.realworldhaskell.org/)
 - [Learn You a Haskell For Great Good](http://learnyouahaskell.com/)

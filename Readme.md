@@ -41,6 +41,19 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY)
 - [What if the user were a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) Great talk by [@andrestaltz](https://twitter.com/andrestaltz). Explores reactive / functional programming and more.
 
+### Video Series: Functional Programming in Javascript
+
+ Created by Mattias P Johansson [twitter](https://twitter.com/mpjme) | [youtube](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
+- [Part 1: Higher-order functions](https://www.youtube.com/watch?v=BMUiFMZr7vk)
+- [Part 2: Map](https://www.youtube.com/watch?v=bCqtb-Z5YGQ)
+- [Part 3: Reduce Basics](https://www.youtube.com/watch?v=Wl98eZpkp-c)
+- [Part 4: Reduce Advanced](https://www.youtube.com/watch?v=1DMolJ2FrNY)
+- [Part 5: Closures](https://www.youtube.com/watch?v=CQqwU2Ixu-U)
+- [Part 6: Currying](https://www.youtube.com/watch?v=iZLP4qOwY8I)
+- [Part 7: Recursion](https://www.youtube.com/watch?v=k7-N8R0-KY4)
+- [Part 8: Promises](https://www.youtube.com/watch?v=2d7s3spWAzo)
+
 ###Courses (free and paid)
 
 - [Javascript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/) (Frontend Masters)

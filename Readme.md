@@ -119,7 +119,7 @@ Certain aspects of the javascript language make it tricky to harness the full po
 
 ### Resources to be Explored
 
-> These are articles that were recommended for one reason or another, but I haven't actually read them to determine their status.
+> These are articles and resources that were recommended for one reason or another, but I haven't actually reviewed them to determine their status.
 
 - [On the Importance of Purity](http://higherlogics.blogspot.pt/2007/10/on-importance-of-purity.html)
 - [Total Functional Programming](http://www.eis.mdx.ac.uk/staffpages/dat/sblp1.pdf)
@@ -128,6 +128,7 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
 - [Curry or Partial Application?](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
 - [The General Theory of Reactivity](https://github.com/kriskowal/gtor) What is all this talk about reactive? Functional? Promises?
+- [coderoad-functional-school](https://github.com/coderoad/coderoad-functional-school)
 
 ### Blogs to Follow
 

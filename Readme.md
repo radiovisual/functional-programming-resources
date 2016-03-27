@@ -30,6 +30,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - [Bringing functional to the frontend: Clojure + ClojureScript for the web](http://blog.getprismatic.com/bringing-functional-to-the-frontend-clojure-clojurescript-for-the-web/)
 - [Om sweet Om: (high-)functional frontend engineering with ClojureScript and React](http://blog.getprismatic.com/om-sweet-om-high-functional-frontend-engineering-with-clojurescript-and-react/)
 - [Functional programming on frontend with React & ClojureScript](http://blog.scalac.io/2015/04/02/clojurescript-reactjs-reagent.html)
+- [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.wwvcu92m4)
 
 ###Videos & Presentations
 

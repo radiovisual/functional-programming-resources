@@ -1,4 +1,4 @@
-##Functional Programming Resources
+## Functional Programming Resources
 
 An archive of the best resources surrounding the functional programming paradigm.
 
@@ -9,7 +9,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 
 **Note:** This is very much a work in progress!
 
-###Keywords
+### Keywords
 
 - **Higher-Order Functions** A fancy term for a function that accepts another function as an argument. *[source](http://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript)*
 - **Currying** Currying is the process of transforming a function that takes multiple arguments into a function that takes just a single argument and returns another function if any arguments are still needed. *[source](http://tech.pro/tutorial/2011/functional-javascript-part-4-function-currying)*
@@ -19,7 +19,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - **Immutable** Immutable values are values that never change once instantiated. All variables (symbols) are immutable in functional languages.
 - **Tail Call** A tail call happens when a function `F` makes a function call as its final action. At that point `F` will do absolutely no more work: it passes the ball to whatever function is being called and vanishes from the game. *[source](http://duartes.org/gustavo/blog/post/tail-calls-optimization-es6/)*
 
-###Articles
+### Articles
 
 - [Functional Programming for the Rest of Us](http://www.defmacro.org/ramblings/fp.html). This article has a really great way of explaining some of the heavier aspects of FP. It breaks out of the typically-academic approach; speaking directly to developers, and not an assembly of mathematicians.
 - [Don't Be Scared of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/) via Smashing Magazine.
@@ -32,7 +32,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - [Functional programming on frontend with React & ClojureScript](http://blog.scalac.io/2015/04/02/clojurescript-reactjs-reagent.html)
 - [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.wwvcu92m4)
 
-###Videos & Presentations
+### Videos & Presentations
 
 - [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by Rich Hickney (author of Clojure)
 - [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) Not 100% about FP, but has some great tips on immutable data with the react.js library.
@@ -55,13 +55,13 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - [Part 7: Recursion](https://www.youtube.com/watch?v=k7-N8R0-KY4)
 - [Part 8: Promises](https://www.youtube.com/watch?v=2d7s3spWAzo)
 
-###Courses (free and paid)
+### Courses (free and paid)
 
 - [Javascript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/) (Frontend Masters)
 - [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) (Frontend Masters)
 - [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x#.VQaxMmTkcme) (edX)
 
-###Benefits of Functional Programming
+### Benefits of Functional Programming
 
 - **Unit Testing** No function can ever cause side-effects, there is no need to care about external state, or calling functions in any particular order, all you need to do is pass arguments to your functions that represent your edge cases, this makes unit testing *an absolute dream*, and your applications can ship with confidence!
 - **Debugging** Debugging a functional program is a breeze. If a function doesn't behave appropriately, just take a peek at your stack, and all the functions and variables that lead you to this point are staring right at you. No need to examine any external state, or investigate who/what/where could have interfered, it's all right in front of you.
@@ -73,7 +73,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - **Highly-Maintainable Code** FP programs are incredibly easy to read, due to the declarative (and modular) nature of functional programming. Additionally: Functional programs also tend to be shorter than their imperative counterparts, and a smaller code base is easier to maintain than a large one.
 - **Static Types** In FP, all 'variables' (immutable symbols) have a type (either declared, or inferred at compile-time). The compiler can then analyse your code and help you avoid a wide range of common problems that plague developers in non statically-typed languages. Note: Javascript is not a statically-typed language, see the "Gotchas" section.
 
-###The "Gotchas" of Javascript
+### The "Gotchas" of Javascript
 
 Certain aspects of the javascript language make it tricky to harness the full power of a fully-functional language, namely:
 
@@ -81,7 +81,7 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - **Variables are only immutable in ES6.** All ECMAScript specifications lower than 6 ( >= ES5 ) do not support immutable variables. Note that the `const` keyword is available in ES6, where variables declared like `const foo = 123;` are immutable, but objects declared with `const` behave differently (see the next gotcha).
 - **In ES6, objects declared with `const` are mutable**. The idea here is that the *pointer reference to the object is immutable* when your object is declared with `const`, but the object itself is mutable.
 
-###Libraries & Frameworks
+### Libraries & Frameworks
 
 - [Ramda](http://ramdajs.com/) A utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
   - [Practical Functional Javascript with Ramda](http://developer.telerik.com/featured/practical-functional-javascript-ramda/)
@@ -97,14 +97,14 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [RxJS](http://reactive-extensions.github.io/RxJS/) - Functional reactive library for transforming, composing, and querying various kinds of data.
 - [Lazy.js](https://github.com/dtao/lazy.js/) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 
-###Functional Javascript Books
+### Functional Javascript Books
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/) Has some chapters dedicated to functional programming. Read for free [online](http://eloquentjavascript.net/), or purchase a [paperback](http://www.amazon.com/gp/product/1593275846/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275846&linkCode=as2&tag=marijhaver-20&linkId=VPXXXSRYC5COG5R5) copy.
 - [Programming Javascript Applications : Robust Web Architecture with Node, HTML5, and Modern JS Libraries](http://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293/ref=sr_1_1?s=books&ie=UTF8&qid=1426178193&sr=1-1&keywords=Eric+Elliot)
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming (in Javascript)](https://github.com/DrBoolean/mostly-adequate-guide)
 - [Functional Programming in Javascript](http://www.amazon.com/Functional-Programming-JavaScript-Dan-Mantyla/dp/1784398225/ref=pd_sim_14_4?ie=UTF8&refRID=0TGVWR4T74JV8Q5RAVGY)
 
-###Functional Programming Books, Papers & Articles
+### Functional Programming Books, Papers & Articles
 
 > Worthwhile publications on FP in languages other than Javascript.
 
@@ -117,7 +117,7 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Functional Programming in Swift](http://www.objc.io/books/) #iOS 
 - [Living with Lambdas: Functional Programming in C++](https://pragprog.com/magazines/2013-07/living-with-lambdas)
 
-###Articles to be Explored
+### Resources to be Explored
 
 > These are articles that were recommended for one reason or another, but I haven't actually read them to determine their status.
 
@@ -129,17 +129,17 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Curry or Partial Application?](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8)
 - [The General Theory of Reactivity](https://github.com/kriskowal/gtor) What is all this talk about reactive? Functional? Promises?
 
-###Blogs to Follow
+### Blogs to Follow
 
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 - [RisingStack Engineering](http://blog.risingstack.com/)
 
-###Functional Languages -> Compile to Javascript
+### Functional Languages -> Compile to Javascript
 
 - [Elm-lang.org](http://elm-lang.org/)
 - [ClosureScript](https://github.com/clojure/clojurescript) : A closure to JS compiler
 
-###Functional UI
+### Functional UI
 
 - [Functional UI and Components as Higher Order Functions](http://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
 

@@ -111,7 +111,7 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Real World Haskell](http://book.realworldhaskell.org/)
 - [Learn You a Haskell For Great Good](http://learnyouahaskell.com/)
 - [Functional Programming in Javascript](http://www.amazon.com/Functional-Programming-JavaScript-Dan-Mantyla/dp/1784398225/ref=pd_sim_sbs_14_2?ie=UTF8&refRID=0VWN3N2HTT3XT9VPZFSB)
-- [Game programming in Haskell](https://leanpub.com/gameinhaskell) Insights from a Haskell programmer on the challenges and rewards of building a game in Haskell
+- [Game programming in Haskell](https://leanpub.com/gameinhaskell) Haskell programmer on the challenges / rewards of game development in Haskell
 - [Functional Reactive Programming](http://manning.com/blackheath/)
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) by John Hughes, 1984 #paper #pdf
 - [Functional Programming in Swift](http://www.objc.io/books/) #iOS 

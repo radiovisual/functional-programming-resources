@@ -41,6 +41,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) by [David Nolen](https://twitter.com/swannodette)
 - [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY)
 - [What if the user were a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) Great talk by [@andrestaltz](https://twitter.com/andrestaltz). Explores reactive / functional programming and more.
+- [Build Your Own Curry Function in JavaScript](https://www.youtube.com/watch?v=jJAxhVxaHMM)
 
 ### Video Series: Functional Programming in Javascript
 

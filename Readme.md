@@ -117,7 +117,7 @@ Certain aspects of the javascript language make it tricky to harness the full po
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) by John Hughes, 1984 #paper #pdf
 - [Functional Programming in Swift](http://www.objc.io/books/) #iOS 
 - [Living with Lambdas: Functional Programming in C++](https://pragprog.com/magazines/2013-07/living-with-lambdas)
-- [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming) by Mary Rose Cook (Python 2)
+- [A Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming) by Mary Rose Cook (Python 2)
 
 ### Resources to be Explored
 

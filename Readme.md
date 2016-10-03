@@ -147,3 +147,9 @@ Certain aspects of the javascript language make it tricky to harness the full po
 
 - [Functional UI and Components as Higher Order Functions](http://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
 
+### Functional Software
+
+Below are examples of Open Source projects using the functional paradigm. Pull requests are welcome for contributions!
+
+- [Functional Asteroids](https://github.com/pnachum/Functional-Asteroids)
+

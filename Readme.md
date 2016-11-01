@@ -153,3 +153,8 @@ Below are examples of Open Source projects using the functional paradigm. Pull r
 
 - [Functional Asteroids](https://github.com/pnachum/Functional-Asteroids)
 
+### FP Lists
+
+Other curated lists of Awesome FP Knowledge
+
+- [github.com/stoeffel/awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)

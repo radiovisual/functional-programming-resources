@@ -5,9 +5,10 @@ An archive of the best resources surrounding the functional programming paradigm
 > Object Orientation makes code understandable by encapsulating moving parts. Functional programming makes code understandable by minimizing moving parts. ~ Michael Feathers
 
 Functional programming is making a strong comeback, and with it: a massive wave of internet buzz. Someone needs to sort the good from the bad, and that is what I will attempt to do here.
+
 My focus is on the functional paradigm in the context of Javascript, but discussion and highlight of other Functional languages are welcome for the purpose of evaluation, comparison and education.
 
-**Note:** This is very much a work in progress!
+**Note:** This is very much a work in progress! Pull Requests welcome!
 
 ### Keywords
 
@@ -61,6 +62,10 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - [Javascript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/) (Frontend Masters)
 - [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) (Frontend Masters)
 - [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x#.VQaxMmTkcme) (edX)
+
+### Interactive Online Courses
+
+- [Learn Rx exercises](http://reactivex.io/learnrx/) by Jafar Husain
 
 ### Benefits of Functional Programming
 

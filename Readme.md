@@ -33,7 +33,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - [Functional programming on frontend with React & ClojureScript](http://blog.scalac.io/2015/04/02/clojurescript-reactjs-reagent.html)
 - [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.wwvcu92m4)
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ar6c1b1te)
-- [JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/)
+- [JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/) Also includes a nice list of related FP articles.
 
 ### Videos & Presentations
 

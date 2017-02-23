@@ -47,6 +47,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY)
 - [What if the user were a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) Great talk by [@andrestaltz](https://twitter.com/andrestaltz). Explores reactive / functional programming and more.
 - [Build Your Own Curry Function in JavaScript](https://www.youtube.com/watch?v=jJAxhVxaHMM)
+- [The Ramda Library: Functional Programming in JavaScript](https://www.youtube.com/watch?v=mk5rJuh_6IM)
 
 ### Video Series: Functional Programming in Javascript
 

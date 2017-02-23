@@ -34,6 +34,8 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.wwvcu92m4)
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ar6c1b1te)
 - [JavaScript and Functional Programming](https://bethallchurch.github.io/JavaScript-and-Functional-Programming/) Also includes a nice list of related FP articles.
+- [The Rise and Fall and Rise of Functional Programming (Composing Software)](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c#.ix61rmkb0)
+- [Why Learn Functional Programming in JavaScript? (Composing Software)](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257#.tgjs6rnrk)
 
 ### Videos & Presentations
 

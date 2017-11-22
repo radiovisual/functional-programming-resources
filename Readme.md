@@ -37,6 +37,7 @@ My focus is on the functional paradigm in the context of Javascript, but discuss
 - [The Rise and Fall and Rise of Functional Programming (Composing Software Part 1)](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c#.ix61rmkb0)
 - [Why Learn Functional Programming in JavaScript? (Composing Software Part 2)](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257#.tgjs6rnrk)
 - [Reduce (Composing Software Part 3)](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d#.4cny2cq3g)
+- [Currying the Callback or the Essence of Futures](https://bjouhier.wordpress.com/2011/04/04/currying-the-callback-or-the-essence-of-futures/)
 
 ### Videos & Presentations
 
